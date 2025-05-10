@@ -184,10 +184,10 @@
     "Button": {
       "startBackground": "#FE7C8E",
       "endBackground": "#FF4791",
-      "foreground": "#202330",
+      "foreground": "#ffffff",
       "default.startBackground": "#FE7C8E",
       "default.endBackground": "#FF4791",
-      "default.foreground": "#202330",
+      "default.foreground": "#ffffff",
       "default.focusedBorderColor": "#FFEDF0",
       "shadowColor": "#00000033",
       "focusedBorderColor": "#FFEDF0"
