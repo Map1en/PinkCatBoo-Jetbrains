@@ -65,7 +65,6 @@
       }
     },
     "CompletionPopup": {
-      "background": "secondaryBackground",
       "foreground": "foreground",
       "matchForeground": "accentColor",
       "selectionBackground": "selectionBackground"
