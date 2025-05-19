@@ -100,12 +100,12 @@
 
     },
     "FileColor": {
-      "Blue": "#A2C2EB25",
-      "Green": "#3BC08925",
-      "Orange": "#FFC85B25",
-      "Rose": "#FF62A525",
-      "Violet": "#E6A1FF25",
-      "Yellow": "#FAE8B625"
+      "Blue": "#A2C2EB00",
+      "Green": "#3BC08900",
+      "Orange": "#FFC85B00",
+      "Rose": "#FF62A500",
+      "Violet": "#E6A1FF00",
+      "Yellow": "#FAE8B600"
     },
     "Link": {
       "activeForeground": "infoColor",
