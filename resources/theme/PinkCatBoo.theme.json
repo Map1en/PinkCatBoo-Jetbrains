@@ -40,10 +40,8 @@
       "selectionBackgroundInactive": "selectionInactiveBackground"
     },
     "ActionButton": {
-      "background": "background",
       "hoverBackground": "hoverBackground",
       "pressedBackground": "accentColor",
-      "focusedBorderColor": "focusColor",
       "hoverBorderColor": "borderColor"
     },
     "Button": {
@@ -61,7 +59,6 @@
     },
     "ComboBox": {
       "background": "secondaryBackground",
-      "disabledBackground": "disabledBackground",
       "nonEditableBackground": "secondaryBackground",
       "ArrowButton": {
         "background": "accentColor"
@@ -85,19 +82,13 @@
     },
     "Editor": {
       "background": "background",
-      "foreground": "foreground",
-      "selectionBackground": "selectionBackground",
-      "selectionForeground": "#FFFFFF",
-      "caretRowBackground": "selectionBackground",
-      "caretForeground": "#FFEDF0"
+      "foreground": "foreground"
     },
     "EditorLineNumber": {
-      "foreground": "disabledForeground",
-      "focusedForeground": "foreground"
+
     },
     "EditorIndentGuide": {
-      "normalBackground": "borderColor",
-      "selectedBackground": "accentColor"
+
     },
     "EditorTabs": {
       "underlinedTabBackground": "secondaryBackground",
@@ -107,7 +98,7 @@
       "hoverBackground": "hoverBackground"
     },
     "Gutter": {
-      "background": "background"
+
     },
     "FileColor": {
       "Blue": "#A2C2EB25",
@@ -138,26 +129,16 @@
       "selectionForeground": "accentColor"
     },
     "MenuBar": {
-      "background": "background",
       "borderColor": "secondaryBackground",
-      "hoverBackground": "hoverBackground",
       "selectionBackground": "accentColor",
       "selectionForeground": "background"
     },
     "Notifications": {
-      "background": "secondaryBackground",
-      "borderColor": "borderColor",
-      "errorBackground": "#FF62A533",
-      "errorBorderColor": "errorColor",
-      "warningBackground": "#FFC85B33",
-      "warningBorderColor": "warningColor",
-      "infoBackground": "#A2C2EB33",
-      "infoBorderColor": "infoColor"
+
     },
     "Panel": {
       "background": "background",
-      "foreground": "foreground",
-      "borderColor": "secondaryBackground"
+      "foreground": "foreground"
     },
     "Popup": {
       "background": "secondaryBackground",
@@ -188,12 +169,7 @@
       }
     },
     "Tab": {
-      "activeBackground": "secondaryBackground",
-      "hoverBackground": "hoverBackground",
-      "inactiveBackground": "background",
-      "underlineColor": "accentColor",
-      "activeBorderColor": "accentColor",
-      "inactiveModifiedIconColor": "warningColor"
+
     },
     "Table": {
       "background": "background",
@@ -203,20 +179,16 @@
       "selectionBackground": "selectionBackground",
       "selectionForeground": "selectionForeground",
       "Header": {
-        "background": "secondaryBackground",
-        "foreground": "foreground"
+
       }
     },
     "TextField": {
       "background": "secondaryBackground",
-      "borderColor": "borderColor",
-      "focusedBorderColor": "accentColor",
       "selectionBackground": "selectionBackground"
     },
     "TitlePane": {
       "background": "background",
-      "inactiveBackground": "background",
-      "borderColor": "secondaryBackground"
+      "inactiveBackground": "background"
     },
     "ToolWindow": {
       "Button": {
@@ -228,7 +200,6 @@
         "borderColor": "borderColor"
       },
       "HeaderTab": {
-        "selectedBackground": "selectionBackground",
         "selectedInactiveBackground": "selectionBackground",
         "hoverBackground": "#FE7C8E50"
       }
@@ -243,8 +214,6 @@
       "selectionBackground": "selectionBackground",
       "selectionForeground": "selectionForeground",
       "selectionInactiveBackground": "selectionInactiveBackground",
-      "selectionInactiveForeground": "selectionForeground",
-      "textBackground": "background",
       "rowHeight": 24
     },
     "ValidationTooltip": {
@@ -258,7 +227,6 @@
         "Commit": {
           "currentBranchBackground": "secondaryBackground",
           "hoveredBackground": "hoverBackground",
-          "selectedBackground": "selectionBackground",
           "unmatchedForeground": "disabledForeground"
         }
       }
@@ -270,16 +238,16 @@
       }
     },
     "Error": {
-      "stripeColor": "errorColor"
+
     },
     "Warning": {
-      "stripeColor": "successColor"
+
     },
     "Info": {
-      "stripeColor": "#6796E6"
+
     },
     "Modified": {
-      "stripeColor": "infoColor"
+
     }
   },
   "icons": {
